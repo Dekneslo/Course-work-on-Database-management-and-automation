@@ -84,4 +84,4 @@ TimeTo- это веб приложение для благотворительн
 # Контакты
 [![Vkontakte](https://img.shields.io/badge/Vkontakte-black?style=for-the-badge&logo=VK&logoColor=white")](https://vk.com/dekneslo)
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram&logoColor=blue")](https://t.me/Dekneslo)
-[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram&logoColor=white")](https://vk.com/dekneslo)
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram&logoColor=white")](https://www.instagram.com/dddesh_channn/)
